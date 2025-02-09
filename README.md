@@ -1,6 +1,6 @@
 # Backend for Flex-Core
 
-> Tugas UAS Desain Kreatif Aplikasi Dan Game
+> Tugas UAS Pemrograman Mobile II
 
 Teknologi yang digunakan :
 
